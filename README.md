@@ -17,6 +17,6 @@ A lightweight packet sniffer built with **Scapy** that lets you capture and anal
 
 Clone this repo:
 ```bash
-git clone https://github.com/Nada777-amr/CodeAlpha.git
-cd CodeAlpha
+git clone https://github.com/Nada777-amr/NetworkSniffer.git
+cd NetworkSniffer
 
